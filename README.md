@@ -1,7 +1,8 @@
 
-# Telefon rehberi 
+# Posta Uygulaması 
 
 Bu proje Css responsive tasarım öğrenirken öğrendiklerimi pekiştirmek için yaptığım bir projedir.
+
 ## Neler Kullandım
 
 - Css divleri düzgün isimlendirme
