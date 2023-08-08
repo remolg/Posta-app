@@ -32,4 +32,4 @@ Proje dizinine gidin
   
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](img/kopek.png)
+![Uygulama Ekran Görüntüsü](img/kopek.png) 
